@@ -1,62 +1,74 @@
-# 🚀 Power BI × Spotify Dashboard
+# 🎧 Spotify Data Dashboard with Power BI
 
-A deep dive into public Spotify listening history, engineered into a dynamic and interactive Power BI dashboard. This project wasn't just about playing with data—it was about building a secure, scalable, and seriously cool pipeline that transforms raw audio streams into an elegant visual symphony.
+Welcome to a curated journey through Spotify's most streamed tracks — visualized, analyzed, and reimagined. This interactive Power BI dashboard turns a static dataset into a compelling story of global music trends up to 2023.
 
-
-<p align="left">
-  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="700"/>
+<p align="center">
+  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="900"/>
 </p>
 
 
+## 🔐 Secure Access via OAuth 2.0: Built for Privacy
 
-## 🔐 OAuth 2.0 Flow: Secure Auth Like a Pro
-
-* Registered a Spotify Developer App and implemented the **Authorization Code Flow** using **Flask** in Python.
-* Created a secure local server using **ngrok** to handle the redirect URI.
-* Fetched **user-specific data** via access tokens and managed automatic refresh tokens for continuous access.
-
-## 🚀 API Wizardry: Enriching the Raw Stream
-
-* Used **Client Credentials Flow** to access public endpoints for audio features, genres, and popularity metrics.
-* Cleaned and enriched track data with:
-
-  * Audio features: tempo, danceability, energy, etc.
-  * Metadata: track name, artist, album art, playlist context
-  * Custom engineered fields like decade bins and mood tags
-
-## 🌟 Power BI Magic: Data Meets Storytelling
-
-* Imported the cleaned dataset into **Power BI Desktop**.
-* Designed interactive visuals including:
-
-  * Top artists over time
-  * Listening heatmaps by hour & day
-  * Genre clouds and track popularity charts
-  * Energy vs. danceability scatter plots with album art tooltips
-* Enabled filters, drilldowns, bookmarks, and dynamic tooltips for next-level UX.
+* Registered a Spotify Developer App and implemented **Authorization Code Flow** with **Flask** in Python.
+* Created a secure local server using **ngrok** to manage the OAuth 2.0 redirect URI.
+* Fetched user-specific listening data using **access tokens**, and ensured seamless re-authentication with **refresh tokens**.
 
 
-## 🏋️ Tech Stack
+## 🔍 Data Enrichment through Spotify Web API
+
+* Accessed **public endpoints** with **Client Credentials Flow** to fetch audio features and metadata.
+* Extracted and engineered features:
+
+  * Acoustic attributes: *danceability, energy, tempo, valence, etc.*
+  * Metadata: *track names, artists, genres, album art, playlist source*
+  * Custom fields: *decade bins, mood tags, stream ranks*
+
+
+## 📊 Power BI Visualization Highlights
+
+Transformed the enriched dataset into an interactive experience in **Power BI Desktop**, with visuals that speak louder than words:
+
+* 🎤 **Top Artists Timeline**: Trend analysis across years
+* 🔥 **Energy × Danceability**: Interactive scatter with album art tooltips
+* ⏱️ **Listening Patterns**: Hourly + weekly heatmaps
+* 🎧 **Genre Distribution**: Word clouds & popularity scores
+* 📌 Enhanced UX: Filters, drill-throughs, dynamic bookmarks, and hover cards
+
+
+
+## 🛠️ Tech Stack & Tools
 
 ```text
 Languages: Python (Flask, requests, pandas)
-APIs: Spotify Web API (OAuth 2.0 + Client Credentials)
-Tools: ngrok, Power BI Desktop, Power BI Service
+APIs: Spotify Web API (OAuth 2.0 & Client Credentials Flow)
+Dashboard: Power BI Desktop, Power BI Service
+Other Tools: ngrok, HTML for embedding visuals
 ```
 
 
-### 🔹 Project Outcome
 
-* Personalized, secure, and visually stunning Spotify dashboard
-* Enhanced skillset in API auth flows, REST APIs, data wrangling, and dashboard design
-* A portable, reproducible project that could be adapted for any API-powered analytics
+## 🎯 Project Outcomes
+
+* Developed a secure, scalable pipeline from Spotify's API to Power BI
+* Designed a personalized, interactive dashboard that reveals insights from 1,000+ globally streamed tracks
+* Boosted dashboard development and user engagement skills through storytelling and design
+
+
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE). Free to remix, reuse, and reimagine.
 
-### 🛍️ Wanna Talk Data x Music?
 
-Connect with me if you're a fellow data nerd, music geek, or someone who appreciates turning "Top 50 Sri Lanka" into something... legendary. 😉
+
+## 💬 Let’s Talk Music x Data: Where Data Meets Rhythm
+
+Into analytics, music, or visual storytelling? Let’s collaborate. Whether it’s for a jam session or a dataset breakdown — I’m all ears.
+
+> "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything." – Plato
+
+---
+
+✨ *Transforming data into rhythm, one stream at a time.*
 
 
