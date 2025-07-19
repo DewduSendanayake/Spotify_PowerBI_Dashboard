@@ -4,7 +4,7 @@ A deep dive into public Spotify listening history, engineered into a dynamic and
 
 
 <p align="left">
-  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="400"/>
+  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="700"/>
 </p>
 
 
