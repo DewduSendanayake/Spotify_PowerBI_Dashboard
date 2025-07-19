@@ -2,6 +2,15 @@
 
 A deep dive into public Spotify listening history, engineered into a dynamic and interactive Power BI dashboard. This project wasn't just about playing with data—it was about building a secure, scalable, and seriously cool pipeline that transforms raw audio streams into an elegant visual symphony.
 
+## 🎨 UI Preview
+
+A pastel-themed canvas with clear controls and minimal distractions.
+
+<p align="center">
+  <img src="ui_screenshot.png" alt="UI Screenshot" width="400"/>
+</p>
+
+
 
 ## 🔐 OAuth 2.0 Flow: Secure Auth Like a Pro
 
@@ -45,8 +54,12 @@ Tools: ngrok, Power BI Desktop, Power BI Service
 * Enhanced skillset in API auth flows, REST APIs, data wrangling, and dashboard design
 * A portable, reproducible project that could be adapted for any API-powered analytics
 
+## 📄 License
 
+This project is open source and available under the [MIT License](LICENSE).
 
 ### 🛍️ Wanna Talk Data x Music?
 
 Connect with me if you're a fellow data nerd, music geek, or someone who appreciates turning "Top 50 Sri Lanka" into something... legendary. 😉
+
+
