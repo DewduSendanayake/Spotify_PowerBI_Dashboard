@@ -3,7 +3,7 @@
 Welcome to a curated journey through Spotify's most streamed tracks — visualized, analyzed, and reimagined. This interactive Power BI dashboard turns a static dataset into a compelling story of global music trends up to 2023.
 
 <p align="center">
-  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="900"/>
+  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="800"/>
 </p>
 
 
@@ -63,12 +63,9 @@ Released under the [MIT License](LICENSE). Free to remix, reuse, and reimagine.
 
 ## 💬 Let’s Talk Music x Data: Where Data Meets Rhythm
 
-Into analytics, music, or visual storytelling? Let’s collaborate. Whether it’s for a jam session or a dataset breakdown — I’m all ears.
+Into analytics, music, or visual storytelling? Let’s collaborate.
 
 > "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything." – Plato
 
----
-
-✨ *Transforming data into rhythm, one stream at a time.*
 
 
