@@ -6,8 +6,8 @@ A deep dive into public Spotify listening history, engineered into a dynamic and
 
 A pastel-themed canvas with clear controls and minimal distractions.
 
-<p align="center">
-  <img src="ui_screenshot.png" alt="UI Screenshot" width="400"/>
+<p align="left">
+  <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="400"/>
 </p>
 
 
