@@ -2,9 +2,6 @@
 
 A deep dive into public Spotify listening history, engineered into a dynamic and interactive Power BI dashboard. This project wasn't just about playing with data—it was about building a secure, scalable, and seriously cool pipeline that transforms raw audio streams into an elegant visual symphony.
 
-## 🎨 UI Preview
-
-A pastel-themed canvas with clear controls and minimal distractions.
 
 <p align="left">
   <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="400"/>
