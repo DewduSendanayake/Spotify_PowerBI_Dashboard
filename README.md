@@ -57,13 +57,7 @@ Other Tools: ngrok, HTML for embedding visuals
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE). Free to remix, reuse, and reimagine.
-
-
-
-## 💬 Let’s Talk Music x Data: Where Data Meets Rhythm
-
-Into analytics, music, or visual storytelling? Let’s collaborate.
+Released under the [MIT License](LICENSE). Free to remix, reuse, and reimagine. Into analytics, music, or visual storytelling? Let’s collaborate.
 
 > "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything." – Plato
 
