@@ -17,7 +17,7 @@ Welcome to a journey through Spotify's most streamed tracks visualized, analyzed
 ## 🔍 Data Enrichment through Spotify Web API
 
 * Accessed **public endpoints** with **Client Credentials Flow** to fetch audio features and metadata.
-* Extracted and engineered features:
+* Extracted and engineered features,
 
   * Acoustic attributes: *danceability, energy, tempo, valence, etc.*
   * Metadata: *track names, artists, genres, album art, playlist source*
