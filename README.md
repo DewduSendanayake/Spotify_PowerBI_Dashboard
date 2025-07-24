@@ -1,6 +1,6 @@
 # Spotify Data Dashboard with Power BI 🎧
 
-Welcome to a curated journey through Spotify's most streamed tracks — visualized, analyzed, and reimagined. This interactive Power BI dashboard turns a static dataset into a compelling story of global music trends up to 2023.
+Welcome to a journey through Spotify's most streamed tracks — visualized, analyzed, and reimagined. This interactive Power BI dashboard turns a static dataset into a compelling story of global music trends up to 2023.
 
 <p align="center">
   <img src="Spotify Dashboard.png" alt="Spotify Dashboard" width="800"/>
