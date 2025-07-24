@@ -11,7 +11,7 @@ Welcome to a journey through Spotify's most streamed tracks visualized, analyzed
 
 * Registered a Spotify Developer App and implemented **Authorization Code Flow** with **Flask** in Python.
 * Created a secure local server using **ngrok** to manage the OAuth 2.0 redirect URI.
-* Fetched user-specific listening data using **access tokens**, and ensured seamless re-authentication with **refresh tokens**.
+* Fetched user-specific listening data using **access tokens**, and ensured re-authentication with **refresh tokens**.
 
 
 ## 🔍 Data Enrichment through Spotify Web API
