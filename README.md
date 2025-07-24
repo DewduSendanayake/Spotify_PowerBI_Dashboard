@@ -46,7 +46,6 @@ Other Tools: ngrok, HTML for embedding visuals
 ```
 
 
-
 ## 🎯 Project Outcomes
 
 * Developed a secure, scalable pipeline from Spotify's API to Power BI
