@@ -26,7 +26,7 @@ Welcome to a journey through Spotify's most streamed tracks visualized, analyzed
 
 ## 📊 Power BI Visualization Highlights
 
-Transformed the enriched dataset into an interactive experience in **Power BI Desktop**, with visuals that speak louder than words:
+Transformed the enriched dataset into an interactive experience in **Power BI Desktop**, with visuals that speak louder than words,
 
 * 🎤 **Top Artists Timeline**: Trend analysis across years
 * 🔥 **Energy × Danceability**: Interactive scatter with album art tooltips
