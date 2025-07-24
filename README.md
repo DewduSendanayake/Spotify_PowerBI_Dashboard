@@ -57,7 +57,7 @@ Other Tools: ngrok, HTML for embedding visuals
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE). Free to remix, reuse, and reimagine. Into analytics or visual storytelling? Let’s collaborate.
+Released under the [MIT License](LICENSE). Into analytics or visual storytelling? Let’s collaborate.
 
 > "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything." ~Plato
 
